@@ -5,7 +5,7 @@ Turbo-Flask
 Use Hotwire Turbo in your Flask application.
 """
 from setuptools import setup
-
+ 
 
 setup(
     name='Turbo-Flask',
